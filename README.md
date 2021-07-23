@@ -10,7 +10,7 @@ yarn add -D babel-plugin-remove-react-jsx-attribute
 
 ### Introduction
 
-This is useful to remove jsx attribute which isn't not necessary to bundle your code. For Instance, You can easily remove 'data-testid' just for testing.
+This is useful to remove jsx attribute which isn't not necessary to transpiling your code. For Instance, You can easily remove 'data-testid' just for testing.
 
 ### Example
 
